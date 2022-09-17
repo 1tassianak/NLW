@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url(../img/bg.jpg);
+    background-image: url("https://raw.githubusercontent.com/1tassianak/NLW/master/img/bg.jpg");
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
