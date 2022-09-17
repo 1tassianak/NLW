@@ -1,4 +1,4 @@
 # NLW eSports 
->Trilha Explorer
+> Trilha Explorer
 
-Projeto criado no evento Next Level Week da RocketSeat
+Projeto criado no evento Next Level Week da RocketSeat.
